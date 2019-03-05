@@ -181,8 +181,3 @@ Principal Components are points in the direction of the largest variance. Each s
 - [Matplot colors](https://matplotlib.org/api/colors_api.html)
 - [Scatter plot](http://chris35wills.github.io/courses/PythonPackages_matplotlib/matplotlib_scatter/)
 - [Numpy ravel](http://pythonforbeginners.com)
-
-# To do
-
-- [ ] Report of different results
-- [X] [Example with one single photo](https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com)
