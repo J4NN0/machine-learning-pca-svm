@@ -117,6 +117,9 @@ Principal Components are points in the direction of the largest variance. Each s
         plt.scatter(x[photo_id, 0], x[photo_id, 1], c=color)
         plt.show()
         ```
+        
+        <img width="976" alt="pc_visualization" src="https://user-images.githubusercontent.com/25306548/65881812-442d5f80-e394-11e9-870c-d2a860a1e366.png">
+        
 5. Image reconstruction
 
     - Choose a photo from the data set
@@ -155,6 +158,12 @@ Principal Components are points in the direction of the largest variance. Each s
         ```python
         plt.show()
         ```
+        
+         <img width="1022" alt="img_reconstruction" src="https://user-images.githubusercontent.com/25306548/65880762-9ff6e900-e392-11e9-8c4f-7c7ee2c02421.png">
+
+# Lenna (or Lena) image processing example
+
+   <img width="714" alt="lenna" src="https://user-images.githubusercontent.com/25306548/65881390-9e79f080-e393-11e9-89ca-452c8eb5cb92.png">
 
 # PCA application
 
