@@ -2,7 +2,7 @@
 
 PCA folder contains the PCA applied on images. It is shown what happens if different principal components (PC) are chosen as basis for images representation and classification. Then, the Naive Bayes Classifier has been choosen and applied in order to classify the image.
 
-# PCA overview
+# Overview
 
 ### Image reconstruction
 
@@ -17,7 +17,13 @@ The higher is the number of PC the more is the number informations that are brou
 
 <img width="976" alt="pc_visualization" src="https://user-images.githubusercontent.com/25306548/65881812-442d5f80-e394-11e9-870c-d2a860a1e366.png">
 
-**I suggest to read the [documentation](https://github.com/J4NN0/machine-learning-pca/blob/master/doc/pca_report.pdf) in order to have a more in-depth explenation.**
+### Naive Bayes Classifier
+
+The classifier is able to predict, given an observation of an input, a probability distribution over a set of classes, rather than only outputting the most likely class that the observation should belong to. After splitting the data-set into train and test set, I used the Naive Bayed Classifier in several cases and checked the respective accuracy.
+
+<img width="445" alt="classifier" src="https://user-images.githubusercontent.com/25306548/65883630-b5badd00-e397-11e9-8123-637a84a27ea2.png">
+
+*I suggest to read the [documentation](https://github.com/J4NN0/machine-learning-pca/blob/master/doc/pca_report.pdf) in order to have a more in-depth explenation. Also a [demonstration video](https://www.youtube.com/watch?v=6ltDO_momlI) is available on youtube.*
 
 # General requirements
 
@@ -37,7 +43,7 @@ The higher is the number of PC the more is the number informations that are brou
 
         sudo pip install matplotlib
         
-### Fix
+### Issues
 
 If using 'sklearn' you get the following error
 
