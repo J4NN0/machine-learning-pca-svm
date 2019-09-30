@@ -9,10 +9,10 @@ import random
 
 # Global variables
 # Total number of photo inside each folder
-ndog = len(glob.glob('PACS_homework/dog/*.jpg'))
-nguitar = len(glob.glob('PACS_homework/guitar/*.jpg'))
-nhouse = len(glob.glob('PACS_homework/house/*.jpg'))
-nperson = len(glob.glob('PACS_homework/person/*.jpg'))
+ndog = len(glob.glob('photos/dog/*.jpg'))
+nguitar = len(glob.glob('photos/guitar/*.jpg'))
+nhouse = len(glob.glob('photos/house/*.jpg'))
+nperson = len(glob.glob('photos/person/*.jpg'))
 
 
 def open_img(path, matrix):

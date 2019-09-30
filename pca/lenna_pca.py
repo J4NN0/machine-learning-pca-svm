@@ -16,7 +16,7 @@ def main():
     x = []
 
     print('Opening photo')
-    img_data = np.asarray(Image.open('PACS_homework/lena512color.tiff'))
+    img_data = np.asarray(Image.open('photos/lena512color.tiff'))
     # img_data.shape
     x = img_data.reshape(512, -1)
 
