@@ -109,6 +109,9 @@ Based on your data set, choose any of these models.
     ```
         
     If the data are good, in the 75% (more or less) of cases the prediction will be correct
+    
+    <img width="445" alt="classifier" src="https://user-images.githubusercontent.com/25306548/65883630-b5badd00-e397-11e9-8123-637a84a27ea2.png">
+
 
 # Naive Bayes application
 
