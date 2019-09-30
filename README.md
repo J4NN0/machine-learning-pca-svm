@@ -6,11 +6,18 @@ PCA folder contains the PCA applied on images. It is shown what happens if diffe
 
 ### Image reconstruction
 
+Example result of PCA application on images: in the 2-PC and 6-PC is possible to see (with a little attention) the silhouette (shape) of a dog. Instead, in the 60-PC the silhouette is more evident. The more are the number of PC the more easier to see becomes the solhouette of the dog. The last 6-PC, as expected, are really bad and it is not possible to understand nothing.
+
 <img width="1022" alt="img_reconstruction" src="https://user-images.githubusercontent.com/25306548/65880762-9ff6e900-e392-11e9-8c4f-7c7ee2c02421.png">
 
-### PCA visualization
+### PC visualization
 
-<img width="714" alt="lenna" src="https://user-images.githubusercontent.com/25306548/65881390-9e79f080-e393-11e9-89ca-452c8eb5cb92.png">
+Each color is a different type of subjetc: blue -> dogs, green -> guitar, red -> houses and yellow -> people. 
+The higher is the number of PC the more is the number informations that are brought. In the figure below is showed how, trough PC visualization, is possible to distinguish the different classes.
+
+<img width="976" alt="pc_visualization" src="https://user-images.githubusercontent.com/25306548/65881812-442d5f80-e394-11e9-870c-d2a860a1e366.png">
+
+**I suggest to read the [documentation](https://github.com/J4NN0/machine-learning-pca/blob/master/doc/pca_report.pdf) in order to have a more in-depth explenation.**
 
 # General requirements
 
