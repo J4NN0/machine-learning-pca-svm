@@ -1,4 +1,4 @@
-# machine-learning-pca
+# PCA & Naive Bayes Classifier
 
 PCA folder contains the PCA applied on images. It is shown what happens if different principal components (PC) are chosen as basis for images representation and classification. Then, the Naive Bayes Classifier has been choosen and applied in order to classify the image.
 
