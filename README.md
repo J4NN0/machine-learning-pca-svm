@@ -43,6 +43,8 @@ An example of two different graphs in data classifciation using the rbf (Radial 
 
      <img width="449" alt="validation_accuracy" src="https://user-images.githubusercontent.com/25306548/68994285-7da52600-0881-11ea-9072-140831ab63df.png">
 
+*Checkout the [documentation](https://github.com/J4NN0/machine-learning-pca-svm/blob/master/doc/svm_report.pdf) for more infos.*
+
 # General requirements
 
 - numpy
