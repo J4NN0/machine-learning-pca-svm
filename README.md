@@ -1,6 +1,12 @@
-# PCA & Naive Bayes Classifier
+# Machine Learning
 
-PCA folder contains the PCA applied on images. It is shown what happens if different principal components (PC) are chosen as basis for images representation and classification. Then, the Naive Bayes Classifier has been choosen and applied in order to classify the image.
+### PCA & Naive Bayes Classifier
+
+It is shown what happens if different principal components (PC) are chosen as basis for images representation and classification. Then, the Naive Bayes Classifier has been choosen and applied in order to classify the image.
+
+### SVM
+
+Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier.
 
 # Overview
 
@@ -24,6 +30,18 @@ The classifier is able to predict, given an observation of an input, a probabili
 <img width="445" alt="classifier" src="https://user-images.githubusercontent.com/25306548/65883630-b5badd00-e397-11e9-8123-637a84a27ea2.png">
 
 *I suggest to read the [documentation](https://github.com/J4NN0/machine-learning-pca/blob/master/doc/pca_report.pdf) in order to have a more in-depth explenation. Also a [demonstration video](https://www.youtube.com/watch?v=6ltDO_momlI) is available on youtube.*
+
+### SVM Classification
+
+An example of two different graphs in data classifciation using the rbf (Radial Basis Function) kernel.
+
+- Data and decision boundaries
+
+     <img width="625" alt="test_set" src="https://user-images.githubusercontent.com/25306548/68994274-67976580-0881-11ea-8fba-0bc973d53f57.png">
+
+- This is the validation accuracy
+
+     <img width="449" alt="validation_accuracy" src="https://user-images.githubusercontent.com/25306548/68994285-7da52600-0881-11ea-9072-140831ab63df.png">
 
 # General requirements
 
