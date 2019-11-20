@@ -55,7 +55,7 @@ An example of two different graphs in data classifciation using the rbf (Radial 
 
 # Requirements
 
-Install python dependencies `python -m pip install -r requirements.txt`.
+Install python dependencies `python -m pip install -r requirements.txt` (each folder project contains its own `requirements.txt` file).
 
 The general requirements are:
 
