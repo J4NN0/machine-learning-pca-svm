@@ -1,6 +1,6 @@
 # Machine Learning
 
-### PCA & Naive Bayes Classifier
+## PCA & Naive Bayes Classifier
 
 It is shown what happens if different principal components (PC) are chosen as basis for images representation and classification. Then, the Naive Bayes Classifier has been choosen and applied in order to classify the image.
 
@@ -8,26 +8,26 @@ It is shown what happens if different principal components (PC) are chosen as ba
 
 [![Watch the video](https://img.youtube.com/vi/6ltDO_momlI/maxresdefault.jpg)](https://youtu.be/6ltDO_momlI)
 
-#### PCA Image reconstruction
+### PCA Image reconstruction
 
 Example result of PCA application on images: in the 2-PC and 6-PC is possible to see (with a little attention) the silhouette (shape) of a dog. Instead, in the 60-PC the silhouette is more evident. The more are the number of PC the more easier to see becomes the solhouette of the dog. The last 6-PC, as expected, are really bad and it is not possible to understand nothing.
 
 <img width="1022" alt="img_reconstruction" src="https://user-images.githubusercontent.com/25306548/65880762-9ff6e900-e392-11e9-8c4f-7c7ee2c02421.png">
 
-#### PC visualization
+### PC visualization
 
 Each color is a different type of subjetc: blue -> dogs, green -> guitar, red -> houses and yellow -> people. 
 The higher is the number of PC the more is the number informations that are brought. In the figure below is showed how, trough PC visualization, is possible to distinguish the different classes.
 
 <img width="976" alt="pc_visualization" src="https://user-images.githubusercontent.com/25306548/65881812-442d5f80-e394-11e9-870c-d2a860a1e366.png">
 
-#### Naive Bayes Classifier
+## Naive Bayes Classifier
 
 The classifier is able to predict, given an observation of an input, a probability distribution over a set of classes, rather than only outputting the most likely class that the observation should belong to. After splitting the data-set into train and test set, I used the Naive Bayed Classifier in several cases and checked the respective accuracy.
 
 <img width="445" alt="classifier" src="https://user-images.githubusercontent.com/25306548/65883630-b5badd00-e397-11e9-8123-637a84a27ea2.png">
 
-### SVM
+## SVM
 
 Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier.
 
