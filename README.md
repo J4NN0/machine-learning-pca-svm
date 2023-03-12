@@ -11,7 +11,7 @@ Principal Component Analysis (PCA) applied on images and Naive Bayes Classifier 
 - [SVM](https://github.com/J4NN0/machine-learning-pca-svm#svm)
 - [Requirements](https://github.com/J4NN0/machine-learning-pca-svm#requirements)
 
-# PCA & Naive Bayes Classifier
+# PCA
 
 It is shown what happens if different Principal Components (PC) are chosen as basis for images representation and classification. Then, the Naive Bayes Classifier has been choosen and applied in order to classify the image.
 
