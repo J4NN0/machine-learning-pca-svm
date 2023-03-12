@@ -1,5 +1,7 @@
 # Machine Learning
 
+Principal Component Analysis (PCA) applied on images and Naive Bayes Classifier used in order to classify them. Validation, cross validation and grid search performed with multi class Support-Vector Machines (SVM).
+
 # Table of Contents
 
 - [PCA & Naive Bayes Classifier](https://github.com/J4NN0/machine-learning-pca-svm#pca--naive-bayes-classifier)
