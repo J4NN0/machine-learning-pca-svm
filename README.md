@@ -4,14 +4,14 @@ Principal Component Analysis (PCA) applied on images and Naive Bayes Classifier 
 
 # Table of Contents
 
-- [PCA](https://github.com/J4NN0/machine-learning-pca-svm#pca)
+- [Principal Component Analysis](https://github.com/J4NN0/machine-learning-pca-svm#principal-component-analysis)
   - [PCA Image Reconstruction](https://github.com/J4NN0/machine-learning-pca-svm#pca-image-reconstruction)
   - [PC Visualization](https://github.com/J4NN0/machine-learning-pca-svm#pc-visualization)
 - [Naive Bayes Classifier](https://github.com/J4NN0/machine-learning-pca-svm#naive-bayes-classifier)
-- [SVM](https://github.com/J4NN0/machine-learning-pca-svm#svm)
+- [Support-Vector Machines](https://github.com/J4NN0/machine-learning-pca-svm#support--vector-machines)
 - [Requirements](https://github.com/J4NN0/machine-learning-pca-svm#requirements)
 
-# PCA
+# Principal Component Analysis
 
 It is shown what happens if different Principal Components (PC) are chosen as basis for images representation and classification. Then, the Naive Bayes Classifier has been choosen and applied in order to classify the image.
 
@@ -42,7 +42,7 @@ The classifier is able to predict, given an observation of an input, a probabili
 
 Addiotional information and step by step code explained in [Naive Bayes Classifier README.md](https://github.com/J4NN0/machine-learning-pca-svm/tree/master/naive_bayes_classifier#readme).
 
-# SVM
+# Support-Vector Machines
 
 Given a set of training examples, each marked as belonging to one or the other of two categories, an Support-Vector Machines (SVM) training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier.
 
