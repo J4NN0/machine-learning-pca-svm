@@ -8,7 +8,7 @@ Principal Component Analysis (PCA) applied on images and Naive Bayes Classifier 
   - [PCA Image Reconstruction](https://github.com/J4NN0/machine-learning-pca-svm#pca-image-reconstruction)
   - [PC Visualization](https://github.com/J4NN0/machine-learning-pca-svm#pc-visualization)
 - [Naive Bayes Classifier](https://github.com/J4NN0/machine-learning-pca-svm#naive-bayes-classifier)
-- [Support-Vector Machines](https://github.com/J4NN0/machine-learning-pca-svm#support--vector-machines)
+- [Support-Vector Machines](https://github.com/J4NN0/machine-learning-pca-svm#support-vector-machines)
 - [Requirements](https://github.com/J4NN0/machine-learning-pca-svm#requirements)
 
 # Principal Component Analysis
